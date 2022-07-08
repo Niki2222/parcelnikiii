@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Niki2222/parcelnikiii#readme",
   "devDependencies": {
+    "lodash": "^4.17.21",
     "parcel": "^2.6.2"
   }
 }
